@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parakeet Keys</string>
+    <string name="mic">Mic</string>
+    <string name="stop">Stop</string>
+    <string name="download_starting">Starting download&#8230;</string>
+    <string name="download_progress">%1$s  %2$.1f / %3$.1f MB</string>
+    <string name="download_failed">Download failed: %1$s</string>
+    <string name="drag">Drag</string>
+    <string name="drag_keyboard">Drag keyboard horizontally</string>
+    <string name="model_ready">%1$s ready</string>
+    <string name="model_option">%1$s: %2$s</string>
+    <string name="model_download_starting">Starting %1$s download&#8230;</string>
+    <string name="runtime_status">Device: %1$s\nBackend: CPU, 4 threads\nSelected model: %2$s\nLanguage: %3$s\nModel storage: %4$d MB\nNPU is intentionally disabled: compatible Parakeet TDT QNN artifacts are not available.</string>
+</resources>
